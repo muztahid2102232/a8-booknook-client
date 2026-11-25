@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 140" width="680" height="140" role="img" aria-label="BookNook logo">
+  <title>BookNook</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&amp;display=swap');
+    .word { font-family: 'Playfair Display', Georgia, 'Times New Roman', serif; font-weight: 700; font-size: 96px; letter-spacing: 0.96px; }
+  </style>
+
+  <!-- Stacked-book "B" -->
+  <g transform="translate(24 36) scale(0.68)">
+    <rect x="0" y="0" width="98" height="31.3" rx="15.7" fill="#4F46E5"/>
+    <rect x="0" y="0" width="50" height="31.3" rx="5.6" fill="#4F46E5"/>
+    <rect x="0" y="0" width="13" height="31.3" rx="5.6" fill="#3A33A9"/>
+    <rect x="15.6" y="6.9" width="76" height="17.5" rx="8.7" fill="#E8EAF0"/>
+
+    <rect x="0" y="34.3" width="93" height="31.3" rx="15.7" fill="#F26B3A"/>
+    <rect x="0" y="34.3" width="50" height="31.3" rx="5.6" fill="#F26B3A"/>
+    <rect x="0" y="34.3" width="13" height="31.3" rx="5.6" fill="#B34F2A"/>
+    <rect x="15.6" y="41.2" width="71" height="17.5" rx="8.7" fill="#E8EAF0"/>
+
+    <rect x="0" y="68.7" width="98" height="31.3" rx="15.7" fill="#4F46E5"/>
+    <rect x="0" y="68.7" width="50" height="31.3" rx="5.6" fill="#4F46E5"/>
+    <rect x="0" y="68.7" width="13" height="31.3" rx="5.6" fill="#3A33A9"/>
+    <rect x="15.6" y="75.6" width="76" height="17.5" rx="8.7" fill="#E8EAF0"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text class="word" x="103" y="104"><tspan fill="#4F46E5">OOK</tspan><tspan fill="#111111">NOOK</tspan></text>
+</svg>
